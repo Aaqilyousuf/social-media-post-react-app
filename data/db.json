@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post app",
+      "datetime": "December 13, 2023 1:21:27 AM",
+      "body": "just simple post app."
+    }
+  ]
+}
